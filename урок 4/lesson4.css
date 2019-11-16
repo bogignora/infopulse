@@ -1,0 +1,62 @@
+div{
+	font-family: 'Merienda', cursive;
+	text-indent: 20px;
+	line-height: 15px;
+	background-color: ;
+
+}
+span{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 30px;
+}
+h1{
+	font-family: 'Fredericka the Great', cursive;
+}
+.h{
+	border: 1px solid black;
+	margin: 1px;
+	padding: 1px;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+	word-spacing: 10px;
+	color: #00a6a0;
+
+
+
+}
+.cent{
+	min-width: 200px;
+	max-width: 2000px;
+	max-height: 1000px;
+	min-height: 500px;
+	border: 1px solid black;
+	color: #b1db25;
+	/*text-transform: capitalize; каждое сл с больш б*/
+/*	text-transform: uppercase; все букв б*/
+text-decoration: 
+
+
+
+}
+body{
+	max-width: 960px;
+	margin: 0 auto;
+	background-image: url(https://images.wallpaperscraft.ru/image/doroga_razmetka_pasmurno_124093_1920x1080.jpg);
+	background-repeat: repeat-x;
+	background-repeat: space;
+	background-repeat: round;
+	background-position: 0 0;
+	background-attachment: fixed;
+}
+a{
+	text-decoration: none;
+	word-spacing: 4px;
+	color: #b1db25;
+}
+ul{
+		list-style-image: url(https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg);
+	list-style-position: inside;
+	list-style-type: decimal-leading-zero;
+	color: #8953f5
+
+}
