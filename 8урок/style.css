@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Arial' , sans-serif;
+	background-color: #f8f8f8;
+}
+h1{
+	font-size: 72px;
+	color: white;
+	font-weight: bold;
+	padding-top: 288px; 
+
+}
+h2{
+	font-size: 36px;
+	color: #333;
+	font-weight: bold;
+}
+h3{
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	padding-top: 16px;
+	
+	
+}
+p{
+	color: #333;
+	font-size: 18px;
+	padding-left: 100px;
+	padding-top: 20px;
+}
+.twitter{
+	padding-right: 32px;
+	padding-top: 43px;
+
+}
+.google{
+	padding-right: 32px;
+	padding-top: 43px;
+	
+}
+.vk{
+	padding-top: 43px;
+	
+}
+
+
+
+
+
+.header{
+	background-image: url(images/intro-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	height: 800px;
+	background-attachment: fixed;
+
+}
+.content{
+	height: 1321px;
+
+}
+.one{
+	width: 490px;
+	height: 272px;
+	float: left;
+}
+.two{
+	width: 455px;
+	height: 275px;
+	float: right;
+	padding-right: 36px;
+	padding-top: 35px;
+}
+.three{
+	padding-top: 400px;
+	padding-left: 100px;
+	/*float: left;*/
+}
+.four{
+	height: 182px;
+	width: 471px;
+	float: right;
+	padding-right: 36px;
+	padding-top: 68px;
+}
+
+.five{
+	height: 139px;
+	width: 490px;
+	float: left;
+	padding-left: 100px;
+	padding-top: 165px;
+
+
+
+}
+.six{
+	float: right;
+	padding-right: 36px;
+	padding-top: 150px;
+
+}
+div.content div.inner div.one h2{
+	padding-top: 112px;
+	padding-left: 100px;
+}
+.footer{
+	background-image: url(images/banner-bg-u146-fr.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 531px;
+	background-attachment: fixed;
+}
+
+.conect{
+	padding-left: 100px;
+	padding-top: 247px;
+}
+.twitter1{
+float: right;
+padding-right: 36px;
+
+}
+.google1{
+float: right;
+padding-right: 32px;
+}
+.vk1{
+	float: right;
+	padding-right: 32px;
+}
+a.twitter:hover>img{
