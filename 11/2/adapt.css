@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.section{
+	display: flex;
+	background-color: #c2c2c2;
+	width: 940px;
+	margin: 0 auto;
+}
+.block{
+	justify-content: flex-end;
+
+	width: 30px;
+	height: 30px;
+	background-color: red;
+}
+@media screen and (max-width: 600px){
+	body{
+		background-color: green;
+	}
+
+}
+@media screen and (max-width: 199px){
+	img{
+		display: none;
+	}
+}
+
+	
