@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	/*-webkit-filter:sepia(70%);*/
+	/*-webkit-filter:saturate(3);*/
+	/*-webkit-filter:hue-rotate(50deg);*/
+	/*-webkit-filter:invert(1);*/
+	/*-webkit-filter:opacity(0.2);*/
+	/*-webkit-filter:brightness(3);*/
+	/*-webkit-filter:contrast(3);*/
+	/*-webkit-filter:blur(1px);*/
+	/*-webkit-filter: drop-shadow(10px 10px 5px rgb(102, 153, 204));*/
+	-webkit-filter: grayscale (100%);
+
+
+
+}
